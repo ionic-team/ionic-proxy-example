@@ -21,6 +21,8 @@ See `www/js/services.js` for using the AngularJS constant.
 
 See `www/js/controllers.js` for using the AngularJS service.
 
+See `gulpfile.js` to see how the gulp tasks are set up to replace your URL's in your files.
+
 # Getting started
 
 Run the following commands, the last two may require another console/terminal window:
